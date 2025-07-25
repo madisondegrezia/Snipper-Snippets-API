@@ -1,42 +1,51 @@
-[
-    {
-        "id": 1,
-        "language": "Python",
-        "code": "print('Hello, World!')"
-    },
-    {
-        "id": 2,
-        "language": "Python",
-        "code": "def add(a, b):\n    return a + b"
-    },
-    {
-        "id": 3,
-        "language": "Python",
-        "code": "class Circle:\n    def __init__(self, radius):\n        self.radius = radius\n\n    def area(self):\n        return 3.14 * self.radius ** 2"
-    },
-    {
-        "id": 4,
-        "language": "JavaScript",
-        "code": "console.log('Hello, World!');"
-    },
-    {
-        "id": 5,
-        "language": "JavaScript",
-        "code": "function multiply(a, b) {\n    return a * b;\n}"
-    },
-    {
-        "id": 6,
-        "language": "JavaScript",
-        "code": "const square = num => num * num;"
-    },
-    {
-        "id": 7,
-        "language": "Java",
-        "code": "public class HelloWorld {\n    public static void main(String[] args) {\n        System.out.println(\"Hello, World!\");\n    }\n}"
-    },
-    {
-        "id": 8,
-        "language": "Java",
-        "code": "public class Rectangle {\n    private int width;\n    private int height;\n\n    public Rectangle(int width, int height) {\n        this.width = width;\n        this.height = height;\n    }\n\n    public int getArea() {\n        return width * height;\n    }\n}"
-    }
-]
+{
+    "snippets": [
+        {
+            "id": 1,
+            "language": "Python",
+            "code": "gAAAAABog6sOFbFHOG_zxDeczU_5V2lBwKEl14m9vv4a08JXJ8wAPZ0Wo6651X-AGiRg2qZQjy8AIqP2gYAznOttgAIZWAfnuet4YoZguJmzF7gn6zCbLLo="
+        },
+        {
+            "id": 2,
+            "language": "Python",
+            "code": "gAAAAABog6t3P-ZpsRB21reE3nlAjW36nsj-nIy6-k9W0xJR_iPGYOo4P_KhmVYv5ccCEbMnUPBHEKAewGp_qRgUjmxVeNZ_s1OOp8m8NGiBLYg964_E0-w="
+        },
+        {
+            "id": 3,
+            "language": "Python",
+            "code": "gAAAAABog6urmVZE3zp4EA5uaie4rVuUpSmo7vZkcmfN24_srlR_ro_nYdyYGsDfUhROosLW3xTpgPxZkb67OrbHU7l_wORRNdITNKKJoALzqxNiM0AZlZAjsHYoL2i4CTQiiRjbYeS_zruNLxLnvhgz1bN8Xi9CB2CtzdYhllYleQV7OHpr_CItZzc9vjsPbIA9Nl9RkvVmO0eTUHBoY1uf7PxaRSh9wHff5AK2vNMjEF9SA_-40DIXKzy7WD7V9-RBWRAyJX-m"
+        },
+        {
+            "id": 4,
+            "language": "JavaScript",
+            "code": "gAAAAABog6vMl2O_oN70fuQnj1WCxLMXrZItYRcgSEIRMu5YRBs5Xg5ZN0r82TLXy25B8nKTRiiNDOzOyc00vp35yGCOnwwfISSrQCvorG2IkpIKr4ZOkXU="
+        },
+        {
+            "id": 5,
+            "language": "JavaScript",
+            "code": "gAAAAABog6wYqFrxYQLtXdtTaDVX2EpwlWcq6jWBwFnFquM-jxmdta7aISczzlzV0cSGGAdRVCsHhpmRSb84yq_Sw10k5T1kuWCSPs45nbHCbusmqxnpUy4-Sbgcc5jSx5LXMvzLeutk"
+        },
+        {
+            "id": 6,
+            "language": "JavaScript",
+            "code": "gAAAAABog6wm74V_Vd1S8zF3BxCqNL0SMxJJ-gSJeh1qJnJFTxUSBkVlWykMO_uaepnOFf_NBRLwauiIQf7MoqGM5cYjub8Sr74U63n6s7e9VWINPKC3RKlNzFiXKSrOlnZkG9sAvu_a"
+        },
+        {
+            "id": 7,
+            "language": "Java",
+            "code": "gAAAAABog6wzEFG18J2IXTPZZk010fCoutqjbhKsCM1Oq0_CwFQaD92rkBWXWiFrGUTZNWouayvkLp4VACeRQd-5rm3fJDslwXCC_TLtjnnPQDDLzXaRmB4TVtYFm7X3ETS_OKTyMpE9meR8Lewh9rzlHOZJXi5phgwKyH8eGsX5nvJNGuNOwheWFs0191zeVlfv94Hwc7hW_pl46B9STH7eksqhmTJDSzV_DcLtRtk1skCy2uXZTVI="
+        },
+        {
+            "id": 8,
+            "language": "Java",
+            "code": "gAAAAABog6xDHmCGfnfjaMVmvqKHuCN1Jixtv8sgoZaPzqkW1fT4c5hHnwo9wzleQYsKKKbnSKtA2S_FGms6NCE99R-5P0_ZtOvXkKIWd80QIkYPbrFAszmmUvYl0QIKVk_JFJBvl07HP0U_KV_3Y5wzXJZuOKeeMdLieFyjLlEzczUwsI8T4YHq4ZKb3MyVULTnZOq35gZ4Uck6_EfMLGccS-seJNxw19oNdwcchnk4cpauqz1zA9w1Q-VUckIh6F0ikpG6oIg5T_xCtfDHtOCnoojHkjYfdpx5KBEY004A8S4MuySdRcL3bxXoZK64ChXEb5A7cJgg5eMtM10fJI-KAE2tuDVjPyMKyNEtr0KzAUlKycl6_Km5PotXr22uylUP43Mkrgryy_Gv8GcF_VpDmXfVqtJOBg=="
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "email": "test@test.com",
+            "password": "$2b$12$UClddub.TYfYtAvdsGzV8ecYZ86Ul/3Pxi2ikohe90vJt4l/SIpf6"
+        }
+    ]
+}
